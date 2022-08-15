@@ -1,0 +1,12 @@
+.coin-card {
+	text-align: center;
+	width: 120px;
+	padding: 10px;
+	border: 1px solid #0000000b;
+	&:hover {
+		box-shadow: 5px 3px 9px #00000024;
+	}
+	img {
+		width: 80px;
+	}
+}
